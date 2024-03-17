@@ -1,0 +1,11 @@
+# 公共配置文件
+# @author hjk
+#
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+yuapi:
+  client:
+    access-key: hjk
+    secret-key: abcdefgh
