@@ -1,8 +1,7 @@
 package com.hjk.project.service;
 
-import com.hjk.project.model.entity.InterfaceInfo;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.hjk.project.model.entity.Post;
+import com.hjk.apicommon.model.entity.InterfaceInfo;
 
 /**
  *

@@ -2,7 +2,7 @@ package com.hjk.project.service;
 
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.hjk.project.model.entity.User;
+import com.hjk.apicommon.model.entity.User;
 
 import javax.servlet.http.HttpServletRequest;
 

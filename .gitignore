@@ -39,3 +39,5 @@ build/
 /api-interface/.mvn/
 /api-gateway/.mvn/
 /api-interface/.mvn/
+/api-client-sdk/.mvn/
+/api-interface/.mvn/

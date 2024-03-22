@@ -1,7 +1,7 @@
 package com.hjk.project.mapper;
 
-import com.hjk.project.model.entity.InterfaceInfo;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.hjk.apicommon.model.entity.InterfaceInfo;
 
 /**
  * @author hjk
